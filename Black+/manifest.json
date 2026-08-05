@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Black+",
+  "version": "5.1",
+  "description": "Идеальный черный режим для любых сайтов без багов, Правда же tg @BlackPlusOFF?.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "css": ["styles.css"],
+      "js": ["content.js"],
+      "run_at": "document_start",
+      "all_frames": true
+    }
+  ]
+}
