@@ -22,3 +22,12 @@ To install **Black+** in your browser (Google Chrome, Microsoft Edge, Brave, etc
    * In the file window that opens, select the folder where you extracted the project files.
 
 Done! The extension will appear in your list, and the dark theme will start working automatically.
+
+## 🖼️ Visual Demonstration
+
+See how Black+ transforms websites instantly:
+
+| **Before (Standard Site)** | **After (Dark Mode)** |
+|:---:|:---:|
+| ![Before](images/before.png) | ![After](images/after.png) |
+| *Standard light website* | *Same site with Black+ enabled* |
